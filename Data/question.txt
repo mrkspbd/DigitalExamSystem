@@ -1,0 +1,32 @@
+Q-1	who invented c++ program?
+ 1. Bjarne Stroustrup 
+ 2. Dennis Ritchie
+ 3. Brian Kernighan
+ 4. Herb Sutter
+1
+Q-2	what is the only function of all c++ programs must contain? 
+ 1. start()
+ 2. main()
+ 3. program()
+ 4. system()
+2
+Q-3	which of the following is an abstract data type?
+ 1. int
+ 2. double
+ 3. string
+ 4. class
+4  
+
+Q-4.	How many kinds of classes are there in c++?
+1. One 
+2. Two 
+3. Three 
+4. four
+2   
+
+Q-5	What operation actually compuer does?
+1. Add
+2. Substract
+3. Multiplication
+4. Vidision
+1                    
